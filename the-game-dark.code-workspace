@@ -8,7 +8,7 @@
 		}
 	],
 	"settings": {
-		"workbench.colorTheme": "Default Light+",
+		"workbench.colorTheme": "Default Dark+",
 		"workbench.iconTheme": "vscode-great-icons",
 		"extensions.ignoreRecommendations": true,
 		"editor.formatOnPaste": true,
