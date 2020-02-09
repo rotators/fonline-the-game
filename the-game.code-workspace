@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\fonline"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Default Light+",
+		"workbench.iconTheme": "vscode-great-icons",
+		"extensions.ignoreRecommendations": true,
+		"explorer.incrementalNaming": "smart",
+		"explorer.sortOrder": "type",
+		"extensions.closeExtensionDetailsOnViewChange": true,
+		"telemetry.enableTelemetry": false,
+		"telemetry.enableCrashReporter": false,
+		"window.title": "The Game Editor",
+		"git.ignoreLimitWarning": true
+	}
+}
