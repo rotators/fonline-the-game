@@ -1,0 +1,9 @@
+[
+    {
+        "label": "WSL Shell 2"
+    },
+    {
+        "label": "Check Workspace 2",
+        "command": "BuildTools/check-workspace.sh"
+    }
+]
