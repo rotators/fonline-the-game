@@ -1,12 +1,8 @@
 {
     "actions": [
         {
-            "label": "WSL Shell 2",
-            "group": "The Game"
-        },
-        {
-            "label": "Check Workspace 2",
-            "group": "The Game",
+            "label": "Make All",
+            "group": "Root",
             "command": "BuildTools/check-workspace.sh"
         }
     ]
